@@ -1,0 +1,2 @@
+name -mars
+regis 100001
